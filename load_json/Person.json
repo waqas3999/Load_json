@@ -1,0 +1,27 @@
+[
+  {
+    "name" : "Waqas",
+    "age" : "25",
+    "height" : "175",
+    "gender" : "male",
+    "haircolor" : "black"
+  },
+  {"name" : "Waqar",
+  "age" : "22",
+  "height" : "172",
+  "gender" : "male",
+  "haircolor" : "black&white"
+  },
+  {"name" : "Danish",
+    "age" : "24",
+    "height" : "171",
+    "gender" : "male",
+    "haircolor" : "brown"
+  },
+  {"name" : "Mairaj",
+    "age" : "25",
+    "height" : "173",
+    "gender" : "male",
+    "haircolor" : "black"
+  }
+  ]
